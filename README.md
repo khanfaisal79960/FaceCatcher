@@ -45,7 +45,7 @@
 ## 📁 Project Structure
 
 ```
-facecather/
+FaceCatcher/
 ├── app.py
 ├── requirements.txt
 ├── assets/
